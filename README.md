@@ -3,7 +3,10 @@ Following are the dashboards of the project that I have made using PowerBI and T
 
 ## HR Dashboard Analytics
 PowerBI dashboard that depicts data of employee and their satisfaction from any specific company
-![Alt Text]()
+<p align="center">
+<img src="/images/HR_analytics.gif" width="700" height="700"/>
+</p>
+
 
 ## Money Spending Analytics
 Follwing Tableau Story that shows money spent by various types of people on different categories of items
