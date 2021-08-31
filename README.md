@@ -7,4 +7,4 @@ PowerBI dashboard that depicts data of employee and their satisfaction from any 
 
 ## Money Spending Analytics
 Tableau Story that shows money spent by various types of people on different categories of items
-![Alt Text](https://github.com/NeelPatel1998/PowerBI_and_Tableau_Portfolio/blob/main/money_spending.gif)
+![Alt Text](/money_spending.gif)
