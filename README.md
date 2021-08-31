@@ -8,5 +8,6 @@ PowerBI dashboard that depicts data of employee and their satisfaction from any 
 ## Money Spending Analytics
 Follwing Tableau Story that shows money spent by various types of people on different categories of items
 
-![Alt Text](/images/money_spending.gif)
-<img src="/images/money_spending.gif" width="250" height="250"/>
+<p align="center">
+<img src="/images/money_spending.gif" width="500" height="500"/>
+</p>
