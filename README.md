@@ -4,7 +4,7 @@ Following are the dashboards of the project that I have made using PowerBI and T
 ## HR Dashboard Analytics
 PowerBI dashboard that depicts data of employee and their satisfaction from any specific company
 <p align="center">
-<img src="/images/HR_analytics.gif" width="700" height="700"/>
+<img src="/images/HR_analytics.gif" width="900" height="600"/>
 </p>
 
 
